@@ -2,7 +2,7 @@
 - 👀 I'm currently learning Data Science
 - 🌱 I'm looking for full time role as Data Analyst as well as Machine Learning Engineer.
 - 📫 I am working as Javascript Developer
-- You can reach me at:_
+- You can reach me at:
   www.linkedin.com/in/chhavi11gupta
 
 <!---
